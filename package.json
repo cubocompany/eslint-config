@@ -1,9 +1,19 @@
 {
   "name": "eslint-config-cubocompany",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "ESLint configuration used by CuboCompany.",
   "main": "index.js",
+  "keywords": [
+    "cubocompany",
+    "cubo company",
+    "cubocompany eslint",
+    "cubo company eslint",
+    "eslint config react",
+    "eslint react configuration",
+    "react eslint configuration"
+  ],
+  "author": "Luiz Gustavo Saraiva",
   "license": "MIT",
   "repository": {
     "url": "cubocompany/eslint-config"
